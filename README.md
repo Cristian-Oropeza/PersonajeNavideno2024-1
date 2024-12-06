@@ -35,6 +35,7 @@ Thonny
 https://vm.tiktok.com/ZMkd9FLJc/
 <h2>Fotos de la elaboración del código</h2>
 ![Imagen de WhatsApp 2024-12-04 a las 20 00 13_a691e4e0](https://github.com/user-attachments/assets/ea3330d4-6889-4b79-a2c8-f2ccc97a34f7)
+
 ![Imagen de WhatsApp 2024-12-04 a las 20 00 15_9aa5f94e](https://github.com/user-attachments/assets/0563b3ac-c340-4764-9040-e6283b7b2d0f)
 
 <h2>Código en MicroPython</h2>
