@@ -30,28 +30,22 @@ Thonny
 ## Dibujo del personaje
 ![Imagen de WhatsApp 2024-09-27 a las 08 07 59_b0c7d3ef](https://github.com/user-attachments/assets/b509fe30-0bac-4deb-93d2-32d9b9260347)
 
-
-
 # PRACTICA FINAL
 <h1>Video demostración del funcionamiento</h1>
-
+https://vm.tiktok.com/ZMkd9FLJc/
 <h2>Fotos de la elaboración del código</h2>
-
 ![Imagen de WhatsApp 2024-12-04 a las 20 00 13_a691e4e0](https://github.com/user-attachments/assets/ea3330d4-6889-4b79-a2c8-f2ccc97a34f7)
-
-
 ![Imagen de WhatsApp 2024-12-04 a las 20 00 15_9aa5f94e](https://github.com/user-attachments/assets/0563b3ac-c340-4764-9040-e6283b7b2d0f)
-
 
 <h2>Código en MicroPython</h2>
 https://docs.google.com/document/d/1OxP-MOXMWR4KfX5O1ofXI3URHGsmuSp02K--FmzGAJE/edit?usp=sharing
 <h2>Flujo de Node-Red</h2>
 https://docs.google.com/document/d/1xtrVXRO6TF2eJqWh9Wd1wjGL2uVk3BRjFN8fAYZ3GCQ/edit?usp=sharing
 <h2>Link de video en TikTok</h2>
+https://vm.tiktok.com/ZMkd9FLJc/
 
-<h6>Coevaluacion a Cristian Efraín Oropeza Yepiz<h6>
-Durante la elabolación del proyecto...
-
+<h6>Coevaluacion a Omar Salinas Salinas<h6>
+Durante la elabolación del proyecto Omar se deselvolvio de forma optima durante el desarrollo de Robidad, su desempeño fue bueno, aportando en la construcción y diseño del personaje navideño, sin embargo, lo que yo podria recomendar de mejora, es que se inolucre mas en aportar ideas, tenga iniciativa de algunas cosas ya que falto un poco de eso en este proyecto, aun que si tuvo un buen desempeño
 
 # DOCUMENTACIÓN
 ## Ejercicios en clase
