@@ -53,7 +53,6 @@ Durante la elabolación del proyecto Omar se deselvolvio de forma optima durante
 
 # DOCUMENTACIÓN
 ## Ejercicios en clase
-https://drive.google.com/drive/folders/1c-aTjysi9IpAL43_aaYaaeAEDD1HV67y?usp=sharing
-
+https://drive.google.com/drive/folders/15kbTKFmw4N9zF0C2TWC1gA3gYhg_P0f3?usp=drive_link
 ## Lecciones de Netacad
 https://docs.google.com/document/d/1iA5H5-9AfXU4FTSluAcMSpTuZlo0nn3Yk9Pe255ScIM/edit?usp=sharing
