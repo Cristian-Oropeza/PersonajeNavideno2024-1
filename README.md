@@ -7,7 +7,7 @@ Practica final, instrumento de evaluación (ROBIDAD)
 ROBIDAD
 
 ## Creador
-Omar Salinas Salinas
+Cristian Efraín Oropeza Yepiz
 ## Explicacion del funcionamiento
 El personaje (ROBIDAD) cuando detecta movimiento a una distancia de 10 cm prende los leds que tiene por el cuerpo, ademas mueve el cuerpo media vuelta (180°), produce una melodia navideña y muestra un mensaje en el pecho diciendo "Felices Fiestas", todo esto durante 10 segundos despues de detectar moviemiento y luego se detiene y comienza nuevamente la lectura de la distancia.
 
